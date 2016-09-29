@@ -1,0 +1,19 @@
+.tw-search button{
+
+  /* Vistually merge button with search field*/
+  border-left: none;
+}
+
+.navbar form button,
+.navbar form button:hover,
+.navbar form button:focus,
+.navbar form button:active,
+.navbar form button:active:focus {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.navbar form input{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
