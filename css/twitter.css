@@ -21,3 +21,24 @@
 body{
   padding-top: 60px;
 }
+
+.actions li{
+  padding-right: 60px;
+}
+
+.actions li a{
+  color:gray;
+}
+
+.actions{
+  margin-top:10px;
+  margin-bottom: 15px;
+}
+
+.tw-status-update hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* The color of 'hr' is set by its top border color.
+      Yeah, it's weird. */
+  border-top: 1px solid lightgray;
+}
